@@ -101,7 +101,7 @@ also license-free assets from itch.io where used.
 
 <!-- ACKNOWLEDGEMENTS -->
 ### Authors and Acknowledgements
-- This game was created by Furkan E., Despoina S., Bianca K., Georg B., Tim D. and Manuel Danze 
+- This game was created by Furkan E., Despoina S., Bianca Romana Knülle, Georg B., Tim D. and Manuel D. 
 as a Java Software Project in 3.Semester Bachlor of Computer Science Media at Stuttgart Media University in 2023.
 
 ***
